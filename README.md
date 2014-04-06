@@ -1,0 +1,4 @@
+auth
+====
+
+Simple PHP authorisation
